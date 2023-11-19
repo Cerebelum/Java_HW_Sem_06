@@ -1,4 +1,4 @@
-package HW.Sem_06;
+package Java_HW_Sem_06;
 
 import java.util.Objects;
 

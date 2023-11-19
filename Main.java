@@ -11,7 +11,7 @@
 // параметры фильтрации можно также в Map.
 // Отфильтровать ноутбуки их первоначального множества и вывести проходящие по условиям.
 
-package HW.Sem_06;
+package Java_HW_Sem_06;
 
 import java.util.Arrays;
 import java.util.HashMap;
